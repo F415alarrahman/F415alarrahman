@@ -15,7 +15,7 @@ public class GuestRecord {
         boolean cekk1 = true;
         int inputTamu;
 
-        EventOrganiser[] Guestrecord = new EventOrganiser[2];
+        EventOrganiser[] Guestrecord = new EventOrganiser[10];
 
         while (cekk1){
             System.out.println("1. input identitas");
